@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Problem With Capitalism
+title: If You Could Build Anything
 ---
 
 I love capitalism. Look at how far it has gotten us. Look at what it has brought us.
