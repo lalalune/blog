@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Limitation With Capitalism
+title: The Problem With Capitalism
 ---
 
 I love capitalism. Look at how far it has gotten us. Look at what it has brought us.
