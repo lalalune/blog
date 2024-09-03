@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I'm up and running
+title: Up And Running
 ---
 
 This is my first post.
