@@ -3,9 +3,7 @@ layout: post
 title: Programming As A Hobby
 ---
 
-I live in San Francisco. I have started... too many startups. I have learned many lessons, almost always the hard way.
-
-Being a founder in San Francisco is a lifestyle. You adopt a certain language, you end up running into a lot of the same people at various industry events and parties, you value certain things and feel certain pressures. There is a lot of pressure to not just be a founder, but to be a "successful" founder. Raise money, get users, make money, grow the product, etc.
+Being a founder is a lifestyle. You adopt a certain language, you end up running into a lot of the same people at various industry events and parties, you value certain things and feel certain pressures. There is a lot of pressure to not just be a founder, but to be a "successful" founder. Raise money, get users, make money, grow the product, etc.
 
 A lot of people who just think the technology is cool arrive into the startup scene and are suddenly thrust into a world of growth, sales, optimizing for revenue and retention and virality and all of this stuff that is absolutely crucial for a company to succeed. There is a known road to take, and if you want to raise capital and beat your competitors it absolutely appears like you have to follow it and not veer too much.
 
