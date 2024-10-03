@@ -13,6 +13,8 @@ I want to set some misconceptions straight, address why people hate crypto and w
 
 There is nothing new about this, but since crypto transactions cannot be reversed and there is no PayPal Fraud Detection Unit to deal with it, it's just way easier to scam people with crypto and get away with it. The explosion in social scamming is a result of a massive price drop in automating scambots that are hard to detect with AI and crypto payment methods which make transactions one-click.
 
+I don't think it's fair to call this crypto. If you remember the old days, email inboxes were just as bad as Twitter timelines. We should acknowledge that lower friction and startup-costs are always going to benefit scammers, because they benefit everyone.
+
 ## Everyone Else Is A Bot or Shill
 
 Anyone can make a token in a few minutes now. Deploying a token contract used to cost hundreds of dollars on Ethereum (and still does), but most of the current crypto meta you see has moved to chains where anyone can launch for a few bucks.
