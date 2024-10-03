@@ -7,7 +7,7 @@ Has there ever been a technology which people felt more emotionally attached to 
 
 I want to set some misconceptions straight, address why people hate crypto and why it is actually good.
 
-## Most "Crypto" You See *Really Is* Scam
+## Most "Crypto" You See *Really Is* A Scam
 
 99% of crypto-related stuff you see is an actual scam. As in, there are scammers trying to steal your money, often closely mimicking the branding of a real project to trick followers into sending all their tokens. The randoms talking about ELON BOUGHT THIS TOKEN-- that's actually a scam, and if you click on the website you'll lose everything. There's no coin.
 
