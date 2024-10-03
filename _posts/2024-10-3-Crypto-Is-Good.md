@@ -11,7 +11,7 @@ I want to set some misconceptions straight, address why people hate crypto and w
 
 99% of crypto-related stuff you see is an actual scam. As in, there are scammers trying to steal your money, often closely mimicking the branding of a real project to trick followers into sending all their tokens. The randoms talking about ELON BOUGHT THIS TOKEN-- that's actually a scam, and if you click on the website you'll lose everything. There's no coin.
 
-There is nothing new about this, but since crypto transactions cannot be reversed and there is no PayPal Fraud Detection Unit to deal wit it, it's just way easier to scam people with crypto and get away with it. The explosion in social scamming is a result of a massive price drop in automating scambots that are hard to detect with AI and crypto payment methods which make transactions one-click.
+There is nothing new about this, but since crypto transactions cannot be reversed and there is no PayPal Fraud Detection Unit to deal with it, it's just way easier to scam people with crypto and get away with it. The explosion in social scamming is a result of a massive price drop in automating scambots that are hard to detect with AI and crypto payment methods which make transactions one-click.
 
 ## Everyone Else Is A Bot or Shill
 
